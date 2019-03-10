@@ -166,6 +166,8 @@
  - uCOS
  - Contiki
  - TinyOS
+ - RTEMS
+ - QNX
  - VXWorks
  - FreeRTOS
  - mbed OS
@@ -190,35 +192,31 @@
  - 数字电路
 - PCB设计
  - 设计工具
-	   - Eagle
-	   - Cadence
-	   - Protel
-	   - Altium
-	   - Mentor
-	   - Kicad
-	   - gEAD
-	   - ZUKEN
-	   - PADS
-	   - FreePCB
-	   - Fritzing
-	   - PCBmodE
- - 布线/布线
+   - Eagle
+   - Cadence
+   - Protel
+   - Altium
+   - Mentor
+   - Kicad
+   - gEAD
+   - ZUKEN
+   - PADS
+   - FreePCB
+   - Fritzing
+   - PCBmodE
+ - 布线/走线
+   - 高速电路走线
+   - EMC
+   - 大电流电压布板
+   - 多层板布线
 - 电路仿真
  - 原理仿真软件
-	   - Multisim
-	   - Proteus
-	   - Pspice
+   - Multisim
+   - Proteus
+   - Pspice
  - 信号仿真软件
-	   - ADS
-	   - HFSS
-	   - HyperLynx
-	   - Sigrity
-	   - MATLAB
-
-
-
-
-
-
-
-
+   - ADS
+   - HFSS
+   - HyperLynx
+   - Sigrity
+   - MATLAB
